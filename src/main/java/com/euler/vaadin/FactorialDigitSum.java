@@ -1,4 +1,4 @@
-package com.euler.vaddin;
+package com.euler.vaadin;
 
 
 public class FactorialDigitSum {
@@ -23,7 +23,7 @@ public class FactorialDigitSum {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(factorial(100));
+//		System.out.println(factorial(100));
 		System.out.println(getSumOfDigits(3628800));
 	}
 

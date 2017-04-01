@@ -1,4 +1,4 @@
-package com.euler.vaddin;
+package com.euler.vaadin;
 
 public class EvenFibonacciNumbers {
 

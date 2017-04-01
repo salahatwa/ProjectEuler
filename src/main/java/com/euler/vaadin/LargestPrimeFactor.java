@@ -1,4 +1,4 @@
-package com.euler.vaddin;
+package com.euler.vaadin;
 
 import java.util.ArrayList;
 import java.util.Collections;

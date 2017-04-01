@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.euler.vaddin.NaturalNumber3And5;
+import com.euler.vaadin.NaturalNumber3And5;
 
 public class ProblemsTest {
 
